@@ -1,0 +1,5 @@
+- retrieve recipient gambar, cuplikan chat, dan tanggal message terakhir, based on id message
+
+- retrieve semua message (limit 8), urutkan berdasarkan 
+
+- ketika di chat tertentu, jadi aktif
